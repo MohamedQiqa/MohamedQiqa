@@ -97,9 +97,9 @@
 ![Replit](https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white)
 
 </div>
-![Repos](https://img.shields.io/badge/Repos-30%2B-58A6FF?style=flat-square&logo=github&logoColor=white)
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MohamedQiqa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=MohamedQiqa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&cache_seconds=1" height="220" alt="streak graph"  />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" width="100%" />
