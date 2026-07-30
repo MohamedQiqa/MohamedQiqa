@@ -97,7 +97,7 @@
 ![Replit](https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white)
 
 </div>
-
+![Repos](https://img.shields.io/badge/Repos-30%2B-58A6FF?style=flat-square&logo=github&logoColor=white)
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MohamedQiqa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
